@@ -5,7 +5,8 @@
     "content_scripts": [
         {
             "matches": [
-                "https://ca.prairielearn.org/pl/course_instance/*"
+                "https://ca.prairielearn.org/pl/course_instance/*",
+                "https://ca.prairielearn.com/pl/course_instance/*"
             ],
             "js": ["content.js"]
         }
