@@ -1,6 +1,7 @@
 {
     "manifest_version": 2,
     "name": "WebWork Green in PrairieLearn",
+    "description": "This extension changes the 100% bar in PrairieLearn into the \"★Perfect★\" WebWork bar.",
     "version": "0.3",
     "content_scripts": [
         {
